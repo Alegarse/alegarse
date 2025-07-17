@@ -1,4 +1,5 @@
-# 👨‍💻 Hi!! 👋 I'm Alejandro and you are welcome to my Github profile!!   
+<h1 align='center'>👨‍💻 Hi!! 👋 I'm Alejandro and you are welcome to my Github profile!!</h1>
+
 ## Here's a bit about me:
 
 **Full-stack Developer | Mentor and Tech Educator  | Passionate About Software Development**   
@@ -16,7 +17,7 @@
 Full-stack developer with experience in both frontend and backend, mobile development, and agile methodologies. I'm passionate about building useful solutions, improving processes, and helping others learn how to code.
 I've worked as a freelancer, developer in software companies, and currently deliver technical training in web development
 
-> 🎯 My goal is to continue growing in the IT sector — whether as a developer, team leader, or QA specialist — always with a proactive and curious mindset.
+> 🎯 Goal: Continue growing in the IT sector — whether as a developer, team leader, or QA specialist — always with a proactive and curious mindset.
 
 ---
 
@@ -32,24 +33,41 @@ I've worked as a freelancer, developer in software companies, and currently deli
 ## 🔧 Technologies I use
 
 ### 💻 Languages
-
-`Java` · `PHP` · `JavaScript` · `SQL` · `HTML` · `CSS` · `XML`
+![Java](https://img.shields.io/badge/Java-grey)&nbsp;&nbsp;&nbsp;
+![Php](https://img.shields.io/badge/Php-blue)&nbsp;&nbsp;&nbsp;
+![Js](https://img.shields.io/badge/JavaScript-yellow)&nbsp;&nbsp;&nbsp;
+![Mysql](https://img.shields.io/badge/MySQL-white)&nbsp;&nbsp;&nbsp;
+![Html5](https://img.shields.io/badge/HTML5-orange)&nbsp;&nbsp;&nbsp;
+![Css](https://img.shields.io/badge/CSS-blue)&nbsp;&nbsp;&nbsp;
+![Xml](https://img.shields.io/badge/XML-pink)&nbsp;&nbsp;&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-brown)&nbsp;&nbsp;&nbsp;    
 
 ### 🚀 Frontend
-
-`ReactJS` · `Vite` · `Bootstrap` · `Responsive Design`
+![Reactjs](https://img.shields.io/badge/ReactJS-blue)&nbsp;&nbsp;&nbsp;
+![Vite](https://img.shields.io/badge/Vite-purple)&nbsp;&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/Boststrap-white)&nbsp;&nbsp;&nbsp;
+![Responsive](https://img.shields.io/badge/Responsive-green)&nbsp;&nbsp;&nbsp;
 
 ### ⚙️ Backend & APIs
-
-`Node.js` · `Express` · `PHP Vanilla` · `APIRest` · `Microservices`
+![Nodejs](https://img.shields.io/badge/ReactJS-green)&nbsp;&nbsp;&nbsp;
+![Express](https://img.shields.io/badge/Vite-orange)&nbsp;&nbsp;&nbsp;
+![PHPVanilla](https://img.shields.io/badge/Boststrap-white)&nbsp;&nbsp;&nbsp;
+![Apirest](https://img.shields.io/badge/Responsive-red)&nbsp;&nbsp;&nbsp;
+![Microservices](https://img.shields.io/badge/Responsive-grey)&nbsp;&nbsp;&nbsp;
 
 ### 📱 Mobile development
-
-`Android Java` · `Kotlin` · `Android Studio`
+![AndroidJava](https://img.shields.io/badge/Android_Java-white)&nbsp;&nbsp;&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-purple)&nbsp;&nbsp;&nbsp;
+![AStudio](https://img.shields.io/badge/Android_Studio-grey)&nbsp;&nbsp;&nbsp;
 
 ### 🛠️ Tools & platforms
-
-`Git` · `Jira` · `Scrum` · `AWS EC2` · `Apache` · `Bash` · `QA testing`
+![Git](https://img.shields.io/badge/Git-yellow)&nbsp;&nbsp;&nbsp;
+![Jira](https://img.shields.io/badge/Jira-blue)&nbsp;&nbsp;&nbsp;
+![Scrum](https://img.shields.io/badge/Scrum-grey)&nbsp;&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/AWS-white)&nbsp;&nbsp;&nbsp;
+![Apache](https://img.shields.io/badge/Apache-orange)&nbsp;&nbsp;&nbsp;
+![Bash](https://img.shields.io/badge/Bash-blue)&nbsp;&nbsp;&nbsp;
+![QA](https://img.shields.io/badge/QA-pink)&nbsp;&nbsp;&nbsp; 
 
 ---
 
@@ -59,6 +77,7 @@ I've worked as a freelancer, developer in software companies, and currently deli
 - 🔄 **Advanced and technical Scrum**
 - 🧪 **Automated QA / Testing**
 - ☁️ **Expanding knowledge in AWS & cloud deployment**
+- 💻 **Python, Dockers...** 
 
 ---
 
@@ -73,9 +92,9 @@ I've worked as a freelancer, developer in software companies, and currently deli
 
 ---
 
-## 💬 Exploring collaboration and jobs opportunities
+## 💬 Exploring collaboration and jobs opportunities   
+🟢 I'm open to collaborating on new projects, mentoring, team development, or participating in development communities.  
+🟡 Feel free to reach out or connect with me!
 
-I'm open to collaborating on new projects, mentoring, team development, or participating in development communities.  
-Feel free to reach out or connect with me!
 
 ---
