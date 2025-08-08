@@ -6,7 +6,7 @@
 **Location**: Benalmádena(Spain)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_García_Serrano-blue)](https://www.linkedin.com/in/alegarse/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web%20Personal-green)](https://portfolioags.arenalsoft.es/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Info-green)](https://portfolioags.arenalsoft.es/)
 [![Email](https://img.shields.io/badge/Email-agscm2@gmail.com-orange)](mailto:agscm2@gmail.com)
 
 
