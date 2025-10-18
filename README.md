@@ -37,6 +37,7 @@ I've worked as a freelancer, developer in software companies, and currently deli
 ![Php](https://img.shields.io/badge/Php-blue)&nbsp;&nbsp;&nbsp;
 ![Js](https://img.shields.io/badge/JavaScript-yellow)&nbsp;&nbsp;&nbsp;
 ![Mysql](https://img.shields.io/badge/MySQL-white)&nbsp;&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D)&nbsp;&nbsp;&nbsp;
 ![Html5](https://img.shields.io/badge/HTML5-orange)&nbsp;&nbsp;&nbsp;
 ![Css](https://img.shields.io/badge/CSS-blue)&nbsp;&nbsp;&nbsp;
 ![Xml](https://img.shields.io/badge/XML-pink)&nbsp;&nbsp;&nbsp;
