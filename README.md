@@ -82,17 +82,6 @@ I've worked as a freelancer, developer in software companies, and currently deli
 
 ---
 
-## 📊 GitHub Stats
-
-<div align='center'">
-<img src="https://github-readme-stats.vercel.app/api?username=alegarse&show_icons=true&theme=tokyonight"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alegarse&layout=compact&theme=tokyonight"/>
-</div>
-
-
----
-
 ## 💬 Exploring collaboration and jobs opportunities   
 🟢 I'm open to collaborating on new projects, mentoring, team development, or participating in development communities.  
 🟡 Feel free to reach out or connect with me!
