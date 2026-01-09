@@ -1,4 +1,4 @@
-<h1 align='center'>👨‍💻 Hi!! 👋 I'm Alejandro and you are welcome to my Github profile!!</h1>
+<h1 align='center'>Hi!! I'm Alejandro and you are welcome to my Github profile!!</h1>
 
 ## Here's a bit about me:
 
@@ -12,27 +12,27 @@
 
 ---
 
-## 🧠 About me
+## About me
 
 Full-stack developer with experience in both frontend and backend, mobile development, and agile methodologies. I'm passionate about building useful solutions, improving processes, and helping others learn how to code.
 I've worked as a freelancer, developer in software companies, and currently deliver technical training in web development
 
-> 🎯 Goal: Continue growing in the IT sector — whether as a developer, team leader, or QA specialist — always with a proactive and curious mindset.
+> Goal: Continue growing in the IT sector — whether as a developer, team leader, or QA specialist — always with a proactive and curious mindset.
 
 ---
 
-## ⚡ Professional experience
+## Professional experience
 
-- 👨‍🏫 **Tech Educator / Coding Mentor (2025)** – HTML, CSS, JS, Vite, NodeJs, ReactJS, MongoDB – *CodeSpace*
-- 💻 **Full-Stack developer (2020–2024)** – PHP, ReactJS, NodeJS, Java, SQL – *Galaxy Software SLU*
-- 📱 **Android Developer + APIRest (2019–2024)** – *Freelance – Proyect Sustitut@*
-- ☕ **Java intern (2019)** – _*Technilógica - Accenture*
+- **Tech Educator / Coding Mentor (2025)** – HTML, CSS, JS, Vite, NodeJs, ReactJS, MongoDB – *CodeSpace*
+- **Full-Stack developer (2020–2024)** – PHP, ReactJS, NodeJS, Java, SQL – *Galaxy Software SLU*
+- **Android Developer + APIRest (2019–2024)** – *Freelance – Proyect Sustitut@*
+- **Java intern (2019)** – _*Technilógica - Accenture*
 
 ---
 
-## 🔧 Technologies I use
+## Technologies I use
 
-### 💻 Languages
+### Languages
 ![Java](https://img.shields.io/badge/Java-grey)&nbsp;&nbsp;&nbsp;
 ![Php](https://img.shields.io/badge/Php-blue)&nbsp;&nbsp;&nbsp;
 ![Js](https://img.shields.io/badge/JavaScript-yellow)&nbsp;&nbsp;&nbsp;
@@ -43,25 +43,25 @@ I've worked as a freelancer, developer in software companies, and currently deli
 ![Xml](https://img.shields.io/badge/XML-pink)&nbsp;&nbsp;&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-brown)&nbsp;&nbsp;&nbsp;    
 
-### 🚀 Frontend
+### Frontend
 ![Reactjs](https://img.shields.io/badge/ReactJS-blue)&nbsp;&nbsp;&nbsp;
 ![Vite](https://img.shields.io/badge/Vite-purple)&nbsp;&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Boststrap-white)&nbsp;&nbsp;&nbsp;
 ![Responsive](https://img.shields.io/badge/Responsive-green)&nbsp;&nbsp;&nbsp;
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 ![Nodejs](https://img.shields.io/badge/ReactJS-green)&nbsp;&nbsp;&nbsp;
 ![Express](https://img.shields.io/badge/Vite-orange)&nbsp;&nbsp;&nbsp;
 ![PHPVanilla](https://img.shields.io/badge/Boststrap-white)&nbsp;&nbsp;&nbsp;
 ![Apirest](https://img.shields.io/badge/Responsive-red)&nbsp;&nbsp;&nbsp;
 ![Microservices](https://img.shields.io/badge/Responsive-grey)&nbsp;&nbsp;&nbsp;
 
-### 📱 Mobile development
+### Mobile development
 ![AndroidJava](https://img.shields.io/badge/Android_Java-white)&nbsp;&nbsp;&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple)&nbsp;&nbsp;&nbsp;
 ![AStudio](https://img.shields.io/badge/Android_Studio-grey)&nbsp;&nbsp;&nbsp;
 
-### 🛠️ Tools & platforms
+### Tools & platforms
 ![Git](https://img.shields.io/badge/Git-yellow)&nbsp;&nbsp;&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-blue)&nbsp;&nbsp;&nbsp;
 ![Scrum](https://img.shields.io/badge/Scrum-grey)&nbsp;&nbsp;&nbsp;
@@ -72,19 +72,19 @@ I've worked as a freelancer, developer in software companies, and currently deli
 
 ---
 
-## 📘 Currently Learning
+## Currently Exploring
 
-- 🤖 **AI applied to process management**
-- 🔄 **Advanced and technical Scrum**
-- 🧪 **Automated QA / Testing**
-- ☁️ **Expanding knowledge in AWS & cloud deployment**
-- 💻 **Python, Dockers...** 
+- **AI applied to process management**
+- **Advanced and technical Scrum**
+- **Automated QA / Testing**
+- **Expanding knowledge in AWS & cloud deployment**
+- **Python, Dockers...** 
 
 ---
 
-## 💬 Exploring collaboration and jobs opportunities   
-🟢 I'm open to collaborating on new projects, mentoring, team development, or participating in development communities.  
-🟡 Feel free to reach out or connect with me!
+## Exploring collaboration and jobs opportunities   
+I'm open to collaborating on new projects, mentoring, team development, or participating in development communities.  
+Feel free to reach out or connect with me!
 
 
 ---
