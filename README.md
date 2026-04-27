@@ -46,12 +46,13 @@ I've worked as a freelancer, developer in software companies, and currently deli
 
 ### Frontend
 ![Reactjs](https://img.shields.io/badge/ReactJS-blue)&nbsp;&nbsp;&nbsp;
+![Reactts](https://img.shields.io/badge/ReactTS-green)&nbsp;&nbsp;&nbsp;
 ![Vite](https://img.shields.io/badge/Vite-purple)&nbsp;&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Boststrap-white)&nbsp;&nbsp;&nbsp;
 ![Responsive](https://img.shields.io/badge/Responsive-green)&nbsp;&nbsp;&nbsp;
 
 ### Backend & APIs
-![Nodejs](https://img.shields.io/badge/ReactJS-green)&nbsp;&nbsp;&nbsp;
+![Nodejs](https://img.shields.io/badge/NodeJS-green)&nbsp;&nbsp;&nbsp;
 ![Express](https://img.shields.io/badge/Vite-orange)&nbsp;&nbsp;&nbsp;
 ![PHPVanilla](https://img.shields.io/badge/Boststrap-white)&nbsp;&nbsp;&nbsp;
 ![Apirest](https://img.shields.io/badge/Responsive-red)&nbsp;&nbsp;&nbsp;
