@@ -23,10 +23,10 @@ I've worked as a freelancer, developer in software companies, and currently deli
 
 ## Professional experience
 
-- **Tech Educator / Coding Mentor (2025)** – HTML, CSS, JS, Vite, NodeJs, ReactJS, MongoDB – *CodeSpace*
+- **Tech Educator / Coding Mentor (2025)** – HTML, CSS, JS,TS, Vite, NodeJs, ReactJS, MySQL, MongoDB – *CodeSpace*
 - **Full-Stack developer (2020–2024)** – PHP, ReactJS, NodeJS, Java, SQL – *Galaxy Software SLU*
-- **Android Developer + APIRest (2019–2024)** – *Freelance – Proyect Sustitut@*
-- **Java intern (2019)** – _*Technilógica - Accenture*
+- **Android Developer + APIRest (2019–2024)** – Java, Android Native -  *Freelance – Proyect Sustitut@*
+- **Java intern (2019)** – Java - _*Technilógica - Accenture*
 
 ---
 
@@ -36,6 +36,7 @@ I've worked as a freelancer, developer in software companies, and currently deli
 ![Java](https://img.shields.io/badge/Java-grey)&nbsp;&nbsp;&nbsp;
 ![Php](https://img.shields.io/badge/Php-blue)&nbsp;&nbsp;&nbsp;
 ![Js](https://img.shields.io/badge/JavaScript-yellow)&nbsp;&nbsp;&nbsp;
+![Ts](https://img.shields.io/badge/TypeScript-blue)&nbsp;&nbsp;&nbsp;
 ![Mysql](https://img.shields.io/badge/MySQL-white)&nbsp;&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D)&nbsp;&nbsp;&nbsp;
 ![Html5](https://img.shields.io/badge/HTML5-orange)&nbsp;&nbsp;&nbsp;
